@@ -6,6 +6,8 @@
 
 ## Ссылки
 
+[Статьи по WordPress](https://inwebpress.com/blog/)<br>
+[Youtube-канал](https://www.youtube.com/user/inwebpress)<br>
 [Telegram-канал](https://t.me/inwebpress)<br>
 [Telegram-чат](https://t.me/inweb_chat)<br>
 [Расписание конференций](https://github.com/users/Dizer7/projects/4/views/1)
