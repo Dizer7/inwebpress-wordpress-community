@@ -6,6 +6,6 @@
 
 ## Ссылки
 
-[Telegram-канал](https://t.me/inwebpress)
-Telegram-чат: https://t.me/inweb_chat
-Расписание конференций: https://github.com/users/Dizer7/projects/4/views/1
+[Telegram-канал](https://t.me/inwebpress)<br>
+[Telegram-чат](https://t.me/inweb_chat)<br>
+[Расписание конференций](https://github.com/users/Dizer7/projects/4/views/1)
